@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Delete duplicate item/1.0.0": {
+        "runtime": {
+          "Delete duplicate item.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delete duplicate item/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

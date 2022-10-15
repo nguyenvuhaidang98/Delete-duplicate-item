@@ -1,0 +1,34 @@
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\bin\Debug\net6.0-windows\Delete duplicate item.exe
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\bin\Debug\net6.0-windows\Delete duplicate item.deps.json
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\bin\Debug\net6.0-windows\Delete duplicate item.runtimeconfig.json
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\bin\Debug\net6.0-windows\Delete duplicate item.dll
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\bin\Debug\net6.0-windows\Delete duplicate item.pdb
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.csproj.AssemblyReference.cache
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\obj\Debug\net6.0-windows\Delete_duplicate_item.Form1.resources
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.csproj.GenerateResource.cache
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.GeneratedMSBuildEditorConfig.editorconfig
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.AssemblyInfoInputs.cache
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.AssemblyInfo.cs
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.csproj.CoreCompileInputs.cache
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.dll
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\obj\Debug\net6.0-windows\refint\Delete duplicate item.dll
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.pdb
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.genruntimeconfig.cache
+D:\Delete duplicate item\Delete duplicate item\Delete duplicate item\obj\Debug\net6.0-windows\ref\Delete duplicate item.dll
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\bin\Debug\net6.0-windows\Delete duplicate item.exe
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\bin\Debug\net6.0-windows\Delete duplicate item.deps.json
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\bin\Debug\net6.0-windows\Delete duplicate item.runtimeconfig.json
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\bin\Debug\net6.0-windows\Delete duplicate item.dll
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\bin\Debug\net6.0-windows\Delete duplicate item.pdb
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\obj\Debug\net6.0-windows\Delete_duplicate_item.Form1.resources
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.AssemblyInfo.cs
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.dll
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\obj\Debug\net6.0-windows\refint\Delete duplicate item.dll
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.pdb
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\obj\Debug\net6.0-windows\Delete duplicate item.genruntimeconfig.cache
+C:\Users\admin\Documents\Project\Delete-duplicate-item\Delete duplicate item\obj\Debug\net6.0-windows\ref\Delete duplicate item.dll
